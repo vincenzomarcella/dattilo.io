@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dattilo.io/static/css/main.73caf871.css",
+    "main.js": "/dattilo.io/static/js/main.d44792b6.js",
+    "static/js/787.26678ad6.chunk.js": "/dattilo.io/static/js/787.26678ad6.chunk.js",
+    "index.html": "/dattilo.io/index.html",
+    "main.73caf871.css.map": "/dattilo.io/static/css/main.73caf871.css.map",
+    "main.d44792b6.js.map": "/dattilo.io/static/js/main.d44792b6.js.map",
+    "787.26678ad6.chunk.js.map": "/dattilo.io/static/js/787.26678ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73caf871.css",
+    "static/js/main.d44792b6.js"
+  ]
+}
